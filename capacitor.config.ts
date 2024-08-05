@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.id',
-  appName: 'app.name',
+  appId: 'in.gov.myjp.app',
+  appName: 'e-Jaadui Pitara',
   loggingBehavior: "none",
   webDir: 'www',
   server: {
